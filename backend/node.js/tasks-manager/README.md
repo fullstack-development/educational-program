@@ -90,3 +90,23 @@
 7. Проект должен содержать набор скриптов или Postman-коллекцию с запросами для тестирования эндпоинтов. 
 
 8. Файл README.md должен содержать краткое описание проекта и инструкцию по запуску и тестированию проекта.
+
+## Подсказки и ресурсы
+
+Для написания проекта могут понадобится следующие теоретические знания:
+
+**1. Аутентификация и авторизация**
+
+- [Идентификация, аутентификация и авторизация — в чем разница?](https://www.kaspersky.ru/blog/identification-authentication-authorization-difference/29123/?srsltid=AfmBOore6h53KL0_pcwY2JyTvvjCeyjQczQEadYXKI3Lb8HgfA7aTaCn)
+
+- [Введение в API. Глава 4: Аутентификация, часть 1](https://systems.education/api-auth-1)
+
+- [Введение в API. Глава 4: Аутентификация, часть 2](https://systems.education/api-auth-2)
+
+- [Introduction to JSON Web Tokens](https://jwt.io/introduction)
+
+**2. Rest API**
+
+- [Введение в API. Глава 6: Проектирование API](https://systems.education/api-design)
+
+- [REST API Tutorial](https://restfulapi.net/)
