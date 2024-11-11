@@ -93,9 +93,21 @@
 
 ## Подсказки и ресурсы
 
-Для написания проекта могут понадобится следующие теоретические знания:
+Для написания проекта понадобятся следующие теоретические знания:
 
-**1. Аутентификация и авторизация**
+**1. Express framework**
+
+* [Express Documentation](https://expressjs.com/en/5x/api.html)
+
+**2. PostgreSQL and SQL**
+
+* [Документация к PostgreSQL: Предисловие, глава I, глава II](https://postgrespro.ru/docs/postgresql/16/index)
+
+**3. Prisma ORM**
+
+* [Prisma ORM Overview](https://www.prisma.io/docs/orm/overview/introduction)
+
+**4. Аутентификация и авторизация**
 
 - [Идентификация, аутентификация и авторизация — в чем разница?](https://www.kaspersky.ru/blog/identification-authentication-authorization-difference/29123/?srsltid=AfmBOore6h53KL0_pcwY2JyTvvjCeyjQczQEadYXKI3Lb8HgfA7aTaCn)
 
@@ -105,7 +117,7 @@
 
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction)
 
-**2. Rest API**
+**5. Rest API**
 
 - [Введение в API. Глава 6: Проектирование API](https://systems.education/api-design)
 

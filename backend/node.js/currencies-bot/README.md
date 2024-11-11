@@ -79,12 +79,17 @@
 
 ## Подсказки и ресурсы
 
-Для написания проекта могут понадобится следующие теоретические знания:
+Для написания проекта понадобятся следующие теоретические знания:
 
-**1. Dependency Injection (DI):**
+**1. Node.js**
+
+* [Документация Node.js](https://nodejsdev.ru/guides/webdraftt/)
+
+**2. Dependency Injection (DI):**
 
 Использование dependency injection поможет разделить логику бизнес-слоя и конкретные реализации сервисов, инкапсулировать детали реализации провайдера и обеспечить модульность и расширяемость.
 
 - [A Practical Introduction To Dependency Injection](https://www.smashingmagazine.com/2020/12/practical-introduction-dependency-injection/)
 
 - [Перевод: Практическое введение во внедрение зависимостей (Dependency Injection)](https://webdevblog.ru/prakticheskoe-vvedenie-vo-vnedrenie-zavisimostej-dependency-injection/)
+

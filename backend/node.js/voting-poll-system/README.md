@@ -51,3 +51,15 @@
 6. Должна быть реализована документация API с использованием Swagger.
 
 7. Файл README.md должен содержать краткое описание проекта и инструкцию по запуску и тестированию проекта.
+
+## Подсказки и ресурсы
+
+Для написания проекта понадобятся следующие теоретические знания:
+
+**1. Nest.js framework**
+
+* [Nest.js Documentation](https://docs.nestjs.com/)
+
+**2. TypeORM**
+
+* [Typeorm Documentation](https://docs.nestjs.com/recipes/sql-typeorm)
